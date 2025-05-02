@@ -1,0 +1,59 @@
+<html>
+    <head>
+    <title>Sip & Smile</title>
+    <link rel="stylesheet" href="practical7style.css">
+    </head>
+    <boby>
+        <h1>Sip & Smile</h1>
+        <nav>
+            <ul>
+                <a href="#"><li>Home</li></a>
+                <a href="#"><li>Order</li></a>
+                <a href="#"><li>Near</li></a>
+                <a href="#"><li>About</li></a>
+            </ul>
+        </nav>
+        <section class="items">  
+            <div class="item">
+                <img src="wine3.jpg">
+                <h4>price: 49999/- </h4>
+                <h4>BOTTEGA Gold Wine</h4>
+                <button>Order</button></br></br>
+                <button>Add to cart</button>
+            </div>         
+            <div class="item">
+                <img src="wine4.jpg">
+                <h4>price: 99999/- </h4>
+                <h4>Chevalier Wine</h4>
+                <button>Order</button></br></br>
+                <button>Add to cart</button>
+            </div>   
+            <div class="item">
+                <img src="wine1.jpg">
+                <h4>price: 20999/- </h4>
+                <h4>Red Wine</h4>
+                <button>Order</button></br></br>
+                <button>Add to cart</button>
+            </div>         
+            <div class="item">
+                <img src="wine2.jpg">
+                <h4>price: 30999/- </h4>
+                <h4>Wine</h4>
+                <button>Order</button></br></br>
+                <button>Add to cart</button>
+            </div> 
+            <div class="item">
+                <img src="wine6.jpg">
+                <h4>price: 60999/- </h4>
+                <h4>Reserve Wine</h4>
+                <button>Order</button></br></br>
+                <button>Add to cart</button>
+            </div>                 
+          </section>
+          <footer>
+            <div class="footer-content">
+                <p>Wellcome To Soumya's Web Page.</p>
+            </div>
+          </footer>
+    </body>
+</html>
